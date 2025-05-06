@@ -1,5 +1,7 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
-
-#pragma once
-
+﻿#pragma once
 #include "CoreMinimal.h"
+class ThialOfTheSword
+{
+public:
+	
+};
